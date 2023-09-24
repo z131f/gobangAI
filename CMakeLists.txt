@@ -1,7 +1,9 @@
 cmake_minimum_required(VERSION 3.26)
-project(gobangpp)
+project(gobang C)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_C_STANDARD 11)
 
 link_libraries(libeasyx.a)
-add_executable(gobangpp main.cpp)
+
+add_executable(gobang main.c
+        ai.h)
