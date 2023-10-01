@@ -1,3 +1,0 @@
-F:/gobang/cmake-build-debug/CMakeFiles/gobang.dir
-F:/gobang/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/gobang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
