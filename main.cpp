@@ -55,8 +55,6 @@ int main()
     printf("%d",chessboard[4][7]);
     */
 
-    /////////game
-
     initgraph(gui_length*(MAX+1), gui_length*(MAX+1));
     setbkcolor(GREEN);
     MOUSEMSG m;
